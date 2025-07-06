@@ -21,8 +21,7 @@ Este repositório reúne meus **estudos práticos em Python**, organizados por t
 
 2. Abra os arquivos .py no VSCode, terminal ou outro editor para ler, editar e testar à vontade!
 
-3. Como abrir os notebooks .ipynb
-Abra no Jupyter Notebook, JupyterLab, VSCode (extensão Python) ou Google Colab.
+3. Para os notebooks .ipynb abra no Jupyter Notebook, JupyterLab ou Google Colab.
 
 ⚡️ Status
 🚧 Portfólio em construção.
