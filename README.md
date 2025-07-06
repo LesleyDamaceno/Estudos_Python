@@ -23,6 +23,8 @@ Este repositório reúne meus **estudos práticos em Python**, organizados por t
 
 3. Para os notebooks .ipynb abra no Jupyter Notebook, JupyterLab ou Google Colab.
 
-⚡️ Status
-🚧 Portfólio em construção.
+##
+
+⚡️ Status  
+🚧 Portfólio em construção.  
 Novos scripts e notebooks serão adicionados com o avanço dos meus estudos.
