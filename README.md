@@ -17,7 +17,7 @@ Este repositório reúne meus **estudos práticos em Python**, organizados por t
 
 1. Clone ou baixe o repositório:
    ```bash
-   git clone https://github.com/LesleyDamaceno/estudos_python.git
+   git clone https://github.com/LesleyDamaceno/Estudos_Python.git
 
 2. Abra os arquivos .py no VSCode, terminal ou outro editor para ler, editar e testar à vontade!
 
